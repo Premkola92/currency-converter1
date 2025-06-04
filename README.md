@@ -1,2 +1,2 @@
-# currency-convertor1
+# currency-converter1
 A simple Currency Converter web app built with Flask, HTML, CSS, and JavaScript.
